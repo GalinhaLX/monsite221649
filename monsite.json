@@ -6,7 +6,10 @@
 			"tpl": "WORK-BULMA-MAVO-includeTpl2.js",
 			"visibility": false,
 			"bloc_a": [
-				{}
+				{
+					"title": "qsdf",
+					"soustitre": "sqdf"
+				}
 			],
 			"bloc_b": [
 				{}
